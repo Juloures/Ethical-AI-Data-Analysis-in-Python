@@ -1,0 +1,26 @@
+# Python
+*.pyc
+__pycache__/
+
+# Data files
+*.csv
+*.xls
+*.xlsx
+
+# Virtual environment
+venv/
+env/
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# IDE files
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
